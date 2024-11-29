@@ -8,3 +8,11 @@ Fitur-fitur utama program ini mencakup:
 2. Gacha karakter dan item berdasarkan tingkat kelangkaan.
 3. Menampilkan dan mencari item dalam inventori.
 4. Menampilkan statistik gacha.
+
+Di program ini, saya menggunakan 6 materi python yang telah diajarkan:
+1. Conditional statement
+2. Data collections
+3. Function
+4. String manipulation
+5. Looping
+6. RegEx
